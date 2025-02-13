@@ -4,5 +4,8 @@
     },
     "compilerOptions": {
         "lib": ["dom", "dom.iterable", "dom.asynciterable", "deno.ns"]
+    },
+    "fmt": {
+        "indentWidth": 4
     }
 }
